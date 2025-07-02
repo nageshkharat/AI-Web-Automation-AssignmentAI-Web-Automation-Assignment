@@ -1,8 +1,4 @@
-Below is a polished and concise **README.md** file for your GitHub repository, `AI-Web-Automation-Assignment`, tailored for the **AI-Driven Web Automation for SaaS User Management** assignment. This README is designed to be professional, clear, and directly usable by copying and pasting into your repository. It includes the context of the assignment, setup instructions, usage details, and references to the accompanying PDF document, ensuring it aligns with the assignment requirements and looks human-crafted.
 
----
-
-```markdown
 # AI-Web-Automation-Assignment
 
 ## Overview
