@@ -77,35 +77,3 @@ This prototype supports the CloudEagle AI PM Intern assignment, addressing the c
 
 ## Contact
 For questions, please open a GitHub Issue.
-
-```
-
----
-
-### Instructions for Use
-1. **Create the README File**:
-   - In your GitHub repository (`AI-Web-Automation-Assignment`), create a new file named `README.md`.
-   - Copy the entire content above (including the ```markdown delimiters) and paste it into `README.md`.
-   - Replace `your-username` in the clone URL with your actual GitHub username (e.g., `https://github.com/johndoe/AI-Web-Automation-Assignment.git`).
-   - Optionally, replace the OpenAI API key placeholder with a note to use a valid key or remove it if not applicable.
-2. **Commit and Push**:
-   ```bash
-   git add README.md
-   git commit -m "Add README for AI Web Automation Assignment"
-   git push origin main
-   ```
-3. **Verify on GitHub**:
-   - Visit your repository (e.g., `https://github.com/your-username/AI-Web-Automation-Assignment`).
-   - Confirm the README renders correctly with proper formatting (headings, code blocks, etc.).
-   - Ensure `scraper.py` is also present in the repository.
-4. **Google Form Submission**:
-   - Copy the repository URL (e.g., `https://github.com/your-username/AI-Web-Automation-Assignment`) and paste it into the Google Form’s “GitHub Link (If any)” field.
-   - Ensure the repository is public or shared with the recruiter’s GitHub handle (if specified).
-
-### Notes
-- **Content**: The README is concise (under 300 words), professional, and covers the assignment’s context, setup, and usage, linking to the PDF for full details.
-- **Customization**: If you tested the prototype on a specific SaaS app (e.g., HubSpot) or added test outputs, mention them in the “Usage” or “Repository Contents” section.
-- **Contact Section**: Kept minimal (GitHub Issues) to avoid sharing personal details unless required. Add your name/email if the recruiter expects it.
-- **Ethical Note**: The README emphasizes mock data to align with ethical guidelines, as real SaaS testing wasn’t performed.
-
-If you need help with GitHub setup, adding test outputs, or tweaking the README further (e.g., adding screenshots or specific SaaS details), let me know!
